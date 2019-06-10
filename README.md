@@ -1,5 +1,5 @@
 # todo-app-vuejs
-
+Project to learn and test vueJs
 ## Project setup
 ```
 npm install
