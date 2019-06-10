@@ -1,4 +1,4 @@
-# tpcoelho-todo-aubay-todo-frontend
+# todo-app-vuejs
 
 ## Project setup
 ```
